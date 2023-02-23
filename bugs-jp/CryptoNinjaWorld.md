@@ -62,7 +62,11 @@ Ref: https://etherscan.io/address/0xd93704f2a0ea3db109de194d4a51ff3e5e77cefd#cod
 
 ## 類似のバグ
 このバグのようにユーザーに対して投票の権利を`delegate`する際にdelegate元のユーザーから投票の権利をburnしなければ、無限に投票できてしまうというバグも存在する
+
 https://github.com/code-423n4/2022-05-velodrome-findings/issues/154
 
-こちらからは以上です
-著者 Tomosuke Chiba : https://twitter.com/tom_eth_dev
+---
+
+Author: Tomosuke Chiba
+
+https://twitter.com/tom_eth_dev
